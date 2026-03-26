@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073743428450",
+    "project_id": "gasis-app",
+    "storage_bucket": "gasis-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073743428450:android:42641748439a3fc2ed4a3b",
+        "android_client_info": {
+          "package_name": "com.example.gasis_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sGXePlNV6QaZhAsry2dx-vB_k-rq74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073743428450:android:d327f2ed6874de92ed4a3b",
+        "android_client_info": {
+          "package_name": "com.example.test_gasis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sGXePlNV6QaZhAsry2dx-vB_k-rq74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
