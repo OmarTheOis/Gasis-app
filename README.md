@@ -130,6 +130,3 @@ The app supports two roles:
 - ⚡ Real-time updates using Firebase Firestore
 - 🧠 State management using Cubit (Bloc)
 
----
-
-## 🏗 Architecture
